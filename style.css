@@ -1,0 +1,34 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("space.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup h1 {
+  font-size: 4rem; 
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-lg {
+	padding: 1rem 2rem; 
+}
+
+.btn-outline-danger:hover {
+	border-width: 5px;
+}
