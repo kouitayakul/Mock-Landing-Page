@@ -10,9 +10,9 @@ Simply press this **Link:** https://kouitayakul.github.io/Mock-Landing-Page/ to 
 
 Here are screenshots of what the page looks like:
 
-<img src="LandingPage" widt="300" height="500">
+<img src="LandingPage.png" widt="200" height="400">
 
-<img src="MailChimpPage" widt="300" height="500">
+<img src="MailChimpPage.png" widt="200" height="400">
 
 ## Tech/Framework used:
 
