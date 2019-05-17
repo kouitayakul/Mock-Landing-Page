@@ -10,4 +10,21 @@ Simply press this **Link:** https://kouitayakul.github.io/Mock-Landing-Page/ to 
 
 Here are screenshots of what the page looks like:
 
+<img src="LandingPage" widt="300" height="500">
+
+<img src="MailChimpPage" widt="300" height="500">
+
+## Tech/Framework used:
+
+Built with:
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## Credits:
+
+Thanks to Udemy for providing this excercise and allow me to develop my web development skills. I was able to experience a glimpse of what it's like to build a website using HTML, CSS, BootStrap, & JavaScript.
+
 
